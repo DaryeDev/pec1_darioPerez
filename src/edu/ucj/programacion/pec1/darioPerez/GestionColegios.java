@@ -2,7 +2,7 @@ package edu.ucj.programacion.pec1.darioPerez;
 
 public class GestionColegios {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { // Puede encontrar el código de este proyecto en su repositorio: https://github.com/DaryeDev/pec1_darioPerez
 		String nombre;
 		String direccion;
 		int numAulas;
